@@ -1,9 +1,5 @@
 using System;
 
-using System;
-
-using System;
-
 class GradeCalculator
 {
     static void Main()
